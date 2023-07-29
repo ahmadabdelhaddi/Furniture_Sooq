@@ -1,0 +1,244 @@
+{
+    "products": [
+        {
+            "_id": 1,
+            "title": "Modern Sofa",
+            "description": "A comfortable and stylish modern sofa for your living room.",
+            "price": 799.99,
+            "quantity": 10,
+            "image": "https://example.com/modern-sofa.jpg"
+        },
+        {
+            "_id": 2,
+            "title": "Comfortable Chair",
+            "description": "A cozy and comfortable chair for your reading nook.",
+            "price": 199.99,
+            "quantity": 15,
+            "image": "https://example.com/comfortable-chair.jpg"
+        },
+        {
+            "_id": 3,
+            "title": "Contemporary Coffee Table",
+            "description": "A sleek and modern coffee table to complement your living room.",
+            "price": 299.99,
+            "quantity": 8,
+            "image": "https://example.com/contemporary-coffee-table.jpg"
+        },
+        {
+            "_id": 4,
+            "title": "Elegant Dining Table",
+            "description": "An elegant dining table for family gatherings and dinner parties.",
+            "price": 599.99,
+            "quantity": 5,
+            "image": "https://example.com/elegant-dining-table.jpg"
+        },
+        {
+            "_id": 5,
+            "title": "Single Sofa",
+            "description": "A single-seater sofa that combines style and comfort.",
+            "price": 449.99,
+            "quantity": 12,
+            "image": "https://example.com/single-sofa.jpg"
+        },
+        {
+            "_id": 6,
+            "title": "Leather Recliner",
+            "description": "A luxurious leather recliner for ultimate relaxation.",
+            "price": 899.99,
+            "quantity": 7,
+            "image": "https://example.com/leather-recliner.jpg"
+        },
+        {
+            "_id": 7,
+            "title": "Chic Armchair",
+            "description": "A chic armchair that adds a touch of elegance to any room.",
+            "price": 299.99,
+            "quantity": 9,
+            "image": "https://example.com/chic-armchair.jpg"
+        },
+        {
+            "_id": 8,
+            "title": "Glass Top Dining Table",
+            "description": "A modern dining table with a sleek glass top design.",
+            "price": 449.99,
+            "quantity": 6,
+            "image": "https://example.com/glass-top-dining-table.jpg"
+        },
+        {
+            "_id": 9,
+            "title": "Velvet Loveseat",
+            "description": "A plush velvet loveseat that exudes comfort and style.",
+            "price": 549.99,
+            "quantity": 11,
+            "image": "https://example.com/velvet-loveseat.jpg"
+        },
+        {
+            "_id": 10,
+            "title": "Wooden Side Table",
+            "description": "A sturdy and practical wooden side table for your living space.",
+            "price": 149.99,
+            "quantity": 18,
+            "image": "https://example.com/wooden-side-table.jpg"
+        },
+        {
+            "_id": 11,
+            "title": "L-Shaped Sectional Sofa",
+            "description": "A spacious and stylish L-shaped sectional sofa for your living room.",
+            "price": 1099.99,
+            "quantity": 3,
+            "image": "https://example.com/l-shaped-sectional-sofa.jpg"
+        },
+        {
+            "_id": 12,
+            "title": "Modern Accent Chair",
+            "description": "A modern accent chair that adds a pop of color to any space.",
+            "price": 249.99,
+            "quantity": 8,
+            "image": "https://example.com/modern-accent-chair.jpg"
+        },
+        {
+            "_id": 13,
+            "title": "Glass Coffee Table",
+            "description": "A sleek glass coffee table with a minimalist design.",
+            "price": 179.99,
+            "quantity": 10,
+            "image": "https://example.com/glass-coffee-table.jpg"
+        },
+        {
+            "_id": 14,
+            "title": "Elegant Dining Chair",
+            "description": "An elegant dining chair with a comfortable upholstered seat.",
+            "price": 129.99,
+            "quantity": 14,
+            "image": "https://example.com/elegant-dining-chair.jpg"
+        },
+        {
+            "_id": 15,
+            "title": "Contemporary TV Stand",
+            "description": "A contemporary TV stand with ample storage for your media devices.",
+            "price": 349.99,
+            "quantity": 6,
+            "image": "https://example.com/contemporary-tv-stand.jpg"
+        },
+        {
+            "_id": 16,
+            "title": "Leather Ottoman",
+            "description": "A luxurious leather ottoman that serves as a versatile piece of furniture.",
+            "price": 199.99,
+            "quantity": 9,
+            "image": "https://example.com/leather-ottoman.jpg"
+        },
+        {
+            "_id": 17,
+            "title": "Velvet Chaise Lounge",
+            "description": "A comfortable and stylish velvet chaise lounge for relaxation.",
+            "price": 549.99,
+            "quantity": 5,
+            "image": "https://example.com/velvet-chaise-lounge.jpg"
+        },
+        {
+            "_id": 18,
+            "title": "Rustic Dining Table",
+            "description": "A rustic dining table with a natural wood finish and sturdy construction.",
+            "price": 679.99,
+            "quantity": 4,
+            "image": "https://example.com/rustic-dining-table.jpg"
+        },
+        {
+            "_id": 19,
+            "title": "Mid-Century Modern Armchair",
+            "description": "A classic mid-century modern armchair that complements any decor.",
+            "price": 349.99,
+            "quantity": 7,
+            "image": "https://example.com/mid-century-modern-armchair.jpg"
+        },
+        {
+            "_id": 20,
+            "title": "Adjustable Height Bar Stool",
+            "description": "An adjustable height bar stool with a swivel seat for added convenience.",
+            "price": 89.99,
+            "quantity": 12,
+            "image": "https://example.com/adjustable-height-bar-stool.jpg"
+        },
+        {
+            "_id": 21,
+            "title": "Sleek Leather Sofa",
+            "description": "A sleek leather sofa that adds sophistication to your living room.",
+            "price": 899.99,
+            "quantity": 6,
+            "image": "https://example.com/sleek-leather-sofa.jpg"
+        },
+        {
+            "_id": 22,
+            "title": "Modern Bookshelf",
+            "description": "A modern bookshelf with multiple shelves for storage and display.",
+            "price": 349.99,
+            "quantity": 10,
+            "image": "https://example.com/modern-bookshelf.jpg"
+        },
+        {
+            "_id": 23,
+            "title": "Cozy Bean Bag Chair",
+            "description": "A cozy bean bag chair that's perfect for relaxation and lounging.",
+            "price": 99.99,
+            "quantity": 15,
+            "image": "https://example.com/cozy-bean-bag-chair.jpg"
+        },
+        {
+            "_id": 24,
+            "title": "Industrial Dining Bench",
+            "description": "An industrial-style dining bench with a sturdy metal frame.",
+            "price": 199.99,
+            "quantity": 8,
+            "image": "https://example.com/industrial-dining-bench.jpg"
+        },
+        {
+            "_id": 25,
+            "title": "Velvet Accent Chair",
+            "description": "A plush velvet accent chair that adds elegance to any room.",
+            "price": 279.99,
+            "quantity": 7,
+            "image": "https://example.com/velvet-accent-chair.jpg"
+        },
+        {
+            "_id": 26,
+            "title": "Glass Top End Table",
+            "description": "A stylish end table with a glass top and metal legs.",
+            "price": 149.99,
+            "quantity": 12,
+            "image": "https://example.com/glass-top-end-table.jpg"
+        },
+        {
+            "_id": 27,
+            "title": "Sectional Sleeper Sofa",
+            "description": "A comfortable sectional sofa that converts into a sleeper for guests.",
+            "price": 1299.99,
+            "quantity": 4,
+            "image": "https://example.com/sectional-sleeper-sofa.jpg"
+        },
+        {
+            "_id": 28,
+            "title": "Modern Writing Desk",
+            "description": "A modern writing desk with a spacious surface for work or study.",
+            "price": 299.99,
+            "quantity": 9,
+            "image": "https://example.com/modern-writing-desk.jpg"
+        },
+        {
+            "_id": 29,
+            "title": "Swivel Rocker Recliner",
+            "description": "A comfortable swivel rocker recliner for ultimate relaxation.",
+            "price": 449.99,
+            "quantity": 6,
+            "image": "https://example.com/swivel-rocker-recliner.jpg"
+        },
+        {
+            "_id": 30,
+            "title": "Rustic Wood TV Stand",
+            "description": "A rustic wood TV stand with shelves and drawers for storage.",
+            "price": 399.99,
+            "quantity": 5,
+            "image": "https://example.com/rustic-wood-tv-stand.jpg"
+        }
+    ]
+}
